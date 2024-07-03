@@ -1,2 +1,10 @@
 node_modules
 .DS_Store
+server/data/snomed_terms.json
+server/data/cui_pt2ch.json
+server/data/cui2ptt_pos.jsonl
+server/data/cui2ptt_tsp.jsonl
+server/data/ptt2age.json
+server/data/ptt2dod.json
+server/data/ptt2eth.json
+server/data/ptt2sex.json
